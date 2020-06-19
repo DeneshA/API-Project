@@ -1,0 +1,9 @@
+#spring:
+  ##MongoDB- Connection
+ # data:
+   # mongodb:
+    #  uri: mongodb+srv://javaop:javaop@cluster0-diuvb.mongodb.net/adb
+
+
+#server:
+  #port: 9090
